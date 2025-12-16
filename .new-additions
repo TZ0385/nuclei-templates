@@ -10,6 +10,7 @@ http/cves/2021/CVE-2021-2135.yaml
 http/cves/2021/CVE-2021-24657.yaml
 http/cves/2021/CVE-2021-37415.yaml
 http/cves/2022/CVE-2022-1029.yaml
+http/cves/2022/CVE-2022-34305.yaml
 http/cves/2023/CVE-2023-23897.yaml
 http/cves/2023/CVE-2023-3388.yaml
 http/cves/2023/CVE-2023-45038.yaml
@@ -25,7 +26,9 @@ http/cves/2025/CVE-2025-55184.yaml
 http/cves/2025/CVE-2025-55749.yaml
 http/cves/2025/CVE-2025-56819.yaml
 http/exposures/apis/ambassador-api-diagnostics-exposure.yaml
+http/exposures/backups/wordpress-db-exposure.yaml
 http/exposures/configs/glimpse-data-exposure.yaml
+http/exposures/configs/phpci-yml.yaml
 http/exposures/configs/python-setup-config.yaml
 http/exposures/configs/xampp-phpinfo-detect.yaml
 http/exposures/files/eclipse-project-exposure.yaml
